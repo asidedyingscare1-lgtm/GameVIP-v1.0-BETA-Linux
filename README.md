@@ -208,22 +208,6 @@ When reporting an issue, include:
 - Error messages or relevant logs
 - Screenshots when available
 
-Please remove passwords, private IP information where appropriate, access tokens, and other sensitive information before submitting logs or screenshots.
-
-## ⚠️ Security & Compatibility Notice
-
-**GameVIP v1.0 is experimental software.**
-
-Previous release information reported antivirus and VirusTotal detections. These detections have not been independently confirmed as false positives, and the security review remains unresolved.
-
-Before running installation scripts with administrator privileges, review their contents and verify the source of the files.
-
-Compatibility may vary depending on Linux distribution, system configuration, PS4 firmware, and network environment.
-
-**Beta status does not certify that software is safe.**
-
-GameVIP is an unofficial community project and is not affiliated with or endorsed by GameBaTo or Sony Interactive Entertainment.
-
 ---
 
 ## 🚀 Development Status
@@ -244,4 +228,4 @@ Thank you to everyone participating in public testing and helping improve GameVI
 
 Your bug reports, suggestions, and feedback are appreciated.
 
-**GameVIP Development | cyberfox1337x**
+**GameVIP Development 
